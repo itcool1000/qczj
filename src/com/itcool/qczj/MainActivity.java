@@ -39,7 +39,7 @@ public class MainActivity extends Activity {
 			@Override
 			public void onPageFinished(WebView view, String url) {
 				super.onPageFinished(view, url);
-			}
+			} 
 
 			
 			@Override
@@ -121,5 +121,6 @@ public class MainActivity extends Activity {
 			}
 		});
     	ad.show();
+    	
 	}
 }
