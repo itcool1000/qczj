@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">青春足迹</string>
+    <string name="action_signin">注册</string>
+    <string name="action_login">登录</string>
+    <string name="action_loginout">退出</string>
+    <string name="action_settings">设置</string>
+    
+    
+    
+    <string name="page_mainpage">mainpage</string>
+</resources>
